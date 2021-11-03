@@ -5,5 +5,5 @@
 
 # First char name
 
-![photo_2021-11-03_13-12-20](https://user-images.githubusercontent.com/80619179/140040050-4b7c7846-025b-4ea8-bc31-69e901814a89.jpg)
+![photo_2021-11-03_13-12-20](https://user-images.githubusercontent.com/80619179/140040404-57bb4844-f70a-45bd-a168-3cdecb7c9597.jpg)
 
