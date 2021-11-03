@@ -1,6 +1,7 @@
 # Gradiant
 
-![photo_2021-11-03_13-13-40](https://user-images.githubusercontent.com/80619179/140039947-7e314579-1d04-480e-9544-9761cecd0d79.jpg
+![photo_2021-11-03_13-13-40](https://user-images.githubusercontent.com/80619179/140040179-b6e2ef9d-f67c-40c9-9d1a-2c97b409a652.jpg)
+
 
 # First char name
 
